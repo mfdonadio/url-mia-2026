@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\marco\\OneDrive\\Escritorio\\CUARTO SEMESTRE\\url-mia-2026\\semana_2\\semana_2_Marco_Donadio\\Laboratorio_2_CSV_JSON.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Escritorio\\CUARTO SEMESTRE\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON.csproj",
       "projectName": "Laboratorio_2_CSV_JSON",
-      "projectPath": "c:\\Users\\marco\\OneDrive\\Escritorio\\CUARTO SEMESTRE\\url-mia-2026\\semana_2\\semana_2_Marco_Donadio\\Laboratorio_2_CSV_JSON.csproj",
+      "projectPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\CUARTO SEMESTRE\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\marco\\OneDrive\\Escritorio\\CUARTO SEMESTRE\\url-mia-2026\\semana_2\\semana_2_Marco_Donadio\\obj\\",
+      "outputPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\CUARTO SEMESTRE\\url-mia-2026\\semana_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
