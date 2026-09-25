@@ -1,0 +1,3 @@
+Laboratorio No. 2 - Cloud Storage
+
+Prueba de carga de archivos utilizando Azure Blob Storage.
