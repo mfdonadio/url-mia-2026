@@ -1,6 +1,9 @@
 ﻿using Azure.Storage.Blobs;
 
-// Obtener Connection String desde la variable de entorno
+
+// Obtener Connection String desde env.
+
+DotNetEnv.Env.NoClobber().Load(".env"); //----> aqui va el nombre del archivo .env
 string? connectionString =
     Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING"); //----> aqui va el connection string
 
